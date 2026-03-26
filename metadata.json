@@ -1,0 +1,5 @@
+{
+  "name": "Remix: 自动化指标整理与字典映射工具",
+  "description": "用于自动化处理指标需求，将其与标准数据字典进行精确和模糊匹配，并输出映射结果。",
+  "requestFramePermissions": []
+}
